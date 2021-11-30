@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDE2_Hashing", "TDE2_Hashing.csproj", "{E18681CE-50A5-49F1-9515-C59338DC2323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18681CE-50A5-49F1-9515-C59338DC2323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18681CE-50A5-49F1-9515-C59338DC2323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18681CE-50A5-49F1-9515-C59338DC2323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18681CE-50A5-49F1-9515-C59338DC2323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5041C79C-9489-4155-9018-24025BDEE49E}
+	EndGlobalSection
+EndGlobal

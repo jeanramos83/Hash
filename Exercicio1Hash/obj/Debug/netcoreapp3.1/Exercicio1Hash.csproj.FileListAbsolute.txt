@@ -1,0 +1,5 @@
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\2º Bimestre\TDE2_Hasing\Exercicio1Hash\obj\Debug\netcoreapp3.1\Exercicio1Hash.csproj.AssemblyReference.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\2º Bimestre\TDE2_Hasing\Exercicio1Hash\obj\Debug\netcoreapp3.1\Exercicio1Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\2º Bimestre\TDE2_Hasing\Exercicio1Hash\obj\Debug\netcoreapp3.1\Exercicio1Hash.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\2º Bimestre\TDE2_Hasing\Exercicio1Hash\obj\Debug\netcoreapp3.1\Exercicio1Hash.AssemblyInfo.cs
+C:\Users\Jean\Desktop\Sistemas de Informaçao\Sistemas de Informação 6º Período\Humberto Melo - Códigos de Alta Performance\2º Bimestre\TDE2_Hasing\Exercicio1Hash\obj\Debug\netcoreapp3.1\Exercicio1Hash.csproj.CoreCompileInputs.cache
